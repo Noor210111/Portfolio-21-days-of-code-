@@ -1,0 +1,9 @@
+.porjects{
+    display: grid;
+    grid-template-columns: repeat(2, 500px);
+    gap: 20px;
+}
+
+.project img {
+    
+}
